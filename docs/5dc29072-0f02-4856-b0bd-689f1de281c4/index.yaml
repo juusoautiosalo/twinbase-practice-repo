@@ -1,4 +1,6 @@
-dt-id: autoassign|https://dtid.org
-hosting-iri: autoassign
+dt-id: https://dtid.org/5dc29072-0f02-4856-b0bd-689f1de281c4
+hosting-iri: https://juusoautiosalo.github.io/twinbase-practice-repo/5dc29072-0f02-4856-b0bd-689f1de281c4
 name: Research seminmar
 description: WDigital twin for our research seminar.
+baseurl: https://juusoautiosalo.github.io/twinbase-practice-repo
+edit: https://github.com/juusoautiosalo/twinbase-practice-repo/edit/main/docs/5dc29072-0f02-4856-b0bd-689f1de281c4/index.yaml
